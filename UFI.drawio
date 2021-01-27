@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T15:37:31.557Z" agent="5.0 (Macintosh)" etag="NvJq1bLILnWsI-rvh30o" version="14.2.7" type="github"><diagram id="FgYWbg1JUuz5qOnDNe0g" name="Page-1">zVRtT4MwEP41fHQpsM19Hr7MqMmSmem3pcINGguHpRO2X+91tGNkLtHEGEkId8/dlbvnudQLo7y5VbzMHjEB6QUsabzwygsCfxiM6WOQbYtM2KQFUiUSm9QBC7EDCzKLbkQCVS9RI0otyj4YY1FArHsYVwrrftoaZf+vJU/hBFjEXJ6izyLRmZ1ixDp8BiLN3J99ZiM5d8kWqDKeYH0EhddeGClE3Vp5E4E05Dle2rqbM9FDYwoK/Z2CJwj1Wz29n7/vHvldtJy9LOcX9pQPLjd2YNus3joGqO/SmHmTGokHisdvA/Gam3flX46GK4nE14oUqFDCKucFkaK8cJrpXFKhT6bkryDnWAktsCBMtZRNuRSp8SWsjVuVPBZF+rD3rvwRQQmvMjAjMBN3HBpnLaSMUKLa9xmu9w/hdiRQGpqzXPkHBWh1AXPQaksprsDpa7c2cH7d7YA/tsdmx/qP7OrZtUsPR3fKkGHF+YFQwfeFSrjmlUZF9rTOhIYFsWoCNenXl+U3qBr3qRqzU6om7AumXN6vUzX8r1QN2d9RRW53texjRxd0eP0J</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-27T15:46:13.184Z" agent="5.0 (Macintosh)" etag="SO-RbNdlJWojhyhcDL-j" version="14.2.7" type="github">
+  <diagram id="FgYWbg1JUuz5qOnDNe0g" name="Page-1">
+    <mxGraphModel dx="1426" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Te3tkwBKPqzMaICVHXVP-1" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="140" y="380" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Te3tkwBKPqzMaICVHXVP-2" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="600" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Te3tkwBKPqzMaICVHXVP-4" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="450" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m5wlNnnDTEt4cHWDMtHI-1" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="335" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="m5wlNnnDTEt4cHWDMtHI-2" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="m5wlNnnDTEt4cHWDMtHI-3" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="365" width="161" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="m5wlNnnDTEt4cHWDMtHI-4" value="" style="shape=mxgraph.cisco.routers.storage_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="549" width="69" height="51" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
