@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T14:41:55.570Z" agent="5.0 (Macintosh)" etag="IfqoUVHjURyBv288rsTd" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:43:07.309Z" agent="5.0 (Macintosh)" etag="g9Uk10oWCo6V0it9pTNH" version="14.2.7" type="github">
   <diagram id="FgYWbg1JUuz5qOnDNe0g" name="Page-1">
     <mxGraphModel dx="1426" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,6 +116,12 @@
             </Array>
             <mxPoint x="-17" y="100" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-13" value="" style="shape=mxgraph.cisco.switches.multiswitch_device;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-14" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
