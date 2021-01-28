@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T14:37:41.421Z" agent="5.0 (Macintosh)" etag="90CgQy3jJ0gh9RDyJUkM" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:41:55.570Z" agent="5.0 (Macintosh)" etag="IfqoUVHjURyBv288rsTd" version="14.2.7" type="github">
   <diagram id="FgYWbg1JUuz5qOnDNe0g" name="Page-1">
     <mxGraphModel dx="1426" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Te3tkwBKPqzMaICVHXVP-1" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380" width="161" height="15" as="geometry" />
+          <mxGeometry x="290" y="85" width="161" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Te3tkwBKPqzMaICVHXVP-2" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="600" width="80" height="100" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry x="160" y="450" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m5wlNnnDTEt4cHWDMtHI-1" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="140" y="335" width="161" height="15" as="geometry" />
+          <mxGeometry x="290" y="40" width="161" height="15" as="geometry" />
         </mxCell>
         <mxCell id="m5wlNnnDTEt4cHWDMtHI-2" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="140" y="350" width="161" height="15" as="geometry" />
+          <mxGeometry x="290" y="55" width="161" height="15" as="geometry" />
         </mxCell>
         <mxCell id="m5wlNnnDTEt4cHWDMtHI-3" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="140" y="365" width="161" height="15" as="geometry" />
+          <mxGeometry x="290" y="70" width="161" height="15" as="geometry" />
         </mxCell>
         <mxCell id="V6Mj1Y-csGA_Pd8vnED0-2" value="" style="shape=mxgraph.cisco.switches.multiswitch_device;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="530" width="90" height="60" as="geometry" />
@@ -68,6 +68,54 @@
         </mxCell>
         <mxCell id="V6Mj1Y-csGA_Pd8vnED0-8" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Te3tkwBKPqzMaICVHXVP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="sourcePoint" />
+            <mxPoint x="375" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="190" />
+              <mxPoint x="90" y="190" />
+              <mxPoint x="90" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="sourcePoint" />
+            <mxPoint x="170" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="200" />
+              <mxPoint x="100" y="200" />
+              <mxPoint x="100" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-11" value="x" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-307" relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="210" />
+              <mxPoint x="110" y="210" />
+              <mxPoint x="110" y="600" />
+              <mxPoint x="180" y="600" />
+            </Array>
+            <mxPoint x="-17" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6Mj1Y-csGA_Pd8vnED0-12" value="x" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-307" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="190" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="120" y="220" />
+              <mxPoint x="120" y="610" />
+              <mxPoint x="190" y="610" />
+            </Array>
+            <mxPoint x="-17" y="100" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
